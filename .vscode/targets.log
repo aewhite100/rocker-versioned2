@@ -1,0 +1,593 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 3.81
+# Copyright (C) 2006  Free Software Foundation, Inc.
+# This is free software; see the source for copying conditions.
+# There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.
+
+# This program built for i386-apple-darwin11.3.0
+ 
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+
+make: jq: Command not found
+make: jq: Command not found
+make: jq: Command not found
+
+/bin/bash: jq: command not found
+
+/bin/bash: jq: command not found
+
+error: open : no such file or directory
+
+/bin/bash: jq: command not found
+
+/bin/bash: jq: command not found
+
+
+# Make data base, printed on Fri Jun 10 10:26:31 2022
+
+# Variables
+
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# automatic
+?F = $(notdir $?)
+# environment
+VSCODE_LOG_NATIVE = false
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# automatic
+@F = $(notdir $@)
+# makefile (from `Makefile', line 56)
+REPORT_DIR = reports
+# makefile
+CURDIR := /Users/alex/projects/rocker-versioned2
+# makefile (from `Makefile', line 1)
+SHELL := /bin/bash
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+_ = /usr/bin/make
+# makefile (from `Makefile', line 34)
+BAKE_JSON = ""
+# makefile (from `Makefile', line 1)
+ 
+MAKEFILE_LIST :=  Makefile
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# makefile (from `Makefile', line 53)
+REPORT_SOURCE_ROOT = tmp/inspects
+# environment
+__CFBundleIdentifier = com.microsoft.VSCode
+# environment
+INFOPATH = /opt/homebrew/share/info:
+# makefile (from `Makefile', line 54)
+IMAGELIST_DIR = tmp/imagelist
+# environment
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/c1/9665xt1d5f917j5xgttj1rm40000gq/T/vscode-ipc-e96d9327-85a6-4fb8-a662-536b66c188e0.sock
+# environment
+VSCODE_CWD = /
+# environment
+PATH = /opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+# makefile (from `Makefile', line 35)
+BAKE_GROUP = default
+# environment
+LaunchInstanceID = FFD1F8E0-3CA7-41E9-B6F3-BA082AB43195
+# environment
+VSCODE_LOG_STACK = false
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
+# environment
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.JAV6uVh9b3/Listeners
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+PWD = /Users/alex/projects/rocker-versioned2
+# environment
+HOMEBREW_CELLAR = /opt/homebrew/Cellar
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+MANPATH = /opt/homebrew/share/man::
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /Users/alex
+# default
+MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
+# environment
+VSCODE_CODE_CACHE_PATH = /Users/alex/Library/Application Support/Code/CachedData/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
+# environment
+LOGNAME = alex
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# environment
+XPC_FLAGS = 0x0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 1
+# makefile (from `Makefile', line 58)
+IMAGE_FILTER = label=org.opencontainers.image.source=$(IMAGE_SOURCE)
+# default
+MAKE_VERSION := 3.81
+# environment
+USER = alex
+# makefile
+.DEFAULT_GOAL := all
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# default
+MAKE_COMMAND := /Library/Developer/CommandLineTools/usr/bin/make
+# default
+.VARIABLES := 
+# environment
+TMPDIR = /var/folders/c1/9665xt1d5f917j5xgttj1rm40000gq/T/
+# automatic
+*F = $(notdir $*)
+# environment
+VSCODE_IPC_HOOK = /Users/alex/Library/Application Support/Code/1.67.2-main.sock
+# makefile
+MAKEFLAGS = Rrqp
+# environment
+MFLAGS = -Rrqp
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.2518705.2518711
+# environment
+HOMEBREW_PREFIX = /opt/homebrew
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# automatic
++F = $(notdir $+)
+# environment
+HOMEBREW_REPOSITORY = /opt/homebrew
+# environment
+__CF_USER_TEXT_ENCODING = 0x1F7:0x0:0x0
+# environment
+COMMAND_MODE = unix2003
+# default
+MAKEFILES := 
+# automatic
+<F = $(notdir $<)
+# makefile (from `Makefile', line 22)
+IMAGE_SOURCE = https://github.com/rocker-org/rocker-versioned2
+# environment
+LC_ALL = C
+# makefile (from `Makefile', line 23)
+COMMIT_HASH := 77e4b1c905898e6fb88ce841a9303a7cfce3c6df
+# makefile (from `Makefile', line 45)
+BAKE_OPTION = --print
+# environment
+SECURITYSESSIONID = 186b1
+# makefile (from `Makefile', line 24)
+IMAGE_REVISION = $(COMMIT_HASH)
+# automatic
+^F = $(notdir $^)
+# default
+SUFFIXES := 
+# environment
+MAKELEVEL := 0
+# environment
+LANG = C
+# makefile (from `Makefile', line 57)
+STACK_FILES = $(wildcard stacks/*.json)
+# environment
+VSCODE_PID = 621
+# makefile (from `Makefile', line 55)
+IMAGELIST_NAME = imagelist.tsv
+# variable set hash-table stats:
+# Load=80/1024=8%, Rehash=0, Collisions=4/197=2%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 16777230, inode 3028554): 23 files, no impossibilities.
+# bakefiles (device 16777230, inode 3028650): 17 files, no impossibilities.
+# tmp/inspects: could not be stat'd.
+# inspect-image: could not be stat'd.
+# stacks (device 16777230, inode 3028892): 17 files, no impossibilities.
+
+# 57 files, no impossibilities in 5 directories.
+
+# Implicit Rules
+
+bake-json-test/%:
+#  commands to execute (from `Makefile', line 17):
+	docker buildx bake -f $(patsubst %/,%,$(dir $*)) --print $(notdir $*)
+	
+
+print-%:
+#  commands to execute (from `Makefile', line 30):
+	@echo $* = $($*)
+	
+
+pull-image/%:
+#  commands to execute (from `Makefile', line 38):
+	-docker pull $*
+	
+
+bake-json/%:
+#  commands to execute (from `Makefile', line 47):
+	docker buildx bake -f $(BAKE_JSON) --set=*.labels.org.opencontainers.image.revision=$(IMAGE_REVISION) $(BAKE_OPTION) $*
+	
+
+inspect-image/%:
+#  commands to execute (from `Makefile', line 60):
+	mkdir -p $(REPORT_SOURCE_ROOT)/$*
+	-docker image inspect $* > $(REPORT_SOURCE_ROOT)/$*/docker_inspect.json
+	-docker run --rm $* dpkg-query --show --showformat='$${Package}\t$${Version}\n' > $(REPORT_SOURCE_ROOT)/$*/apt_packages.tsv
+	-docker run --rm $* Rscript -e 'as.data.frame(installed.packages()[, 3])' > $(REPORT_SOURCE_ROOT)/$*/r_packages.ssv
+	-docker run --rm $* python3 -m pip list --disable-pip-version-check > $(REPORT_SOURCE_ROOT)/$*/pip_packages.ssv
+	
+
+inspect-manifest/%: inspect-image/%
+#  commands to execute (from `Makefile', line 66):
+	-$(foreach I, $(shell jq '.[].RepoDigests[]' -r $(REPORT_SOURCE_ROOT)/$*/docker_inspect.json), $(shell docker buildx imagetools inspect $(I) >> $(REPORT_SOURCE_ROOT)/$*/imagetools_inspect.txt))
+	
+
+report/%:
+#  commands to execute (from `Makefile', line 72):
+	mkdir -p $(REPORT_DIR)
+	-./build/knit-report.R -d $* $(@F) $(REPORT_DIR)
+	
+
+# 7 implicit rules, 0 (0.0%) terminal.
+
+# Files
+
+setup:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 8):
+	./build/make-dockerfiles.R
+	./build/make-bakejson.R
+	./build/make-matrix.R
+	
+
+# Not a target:
+stacks/4.2.0.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.0.4.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+inspect-image-all: inspect-manifest/34e7282c11c5 inspect-manifest/34e7282c11c5 inspect-manifest/206c5ff58d4e
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 68):
+	mkdir -p $(IMAGELIST_DIR)
+	docker image ls -f "$(IMAGE_FILTER)" --format "{{.ID}}\t{{.Repository}}\t{{.Tag}}\t{{.CreatedAt}}" > $(IMAGELIST_DIR)/$(IMAGELIST_NAME)
+	
+
+report-all:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+bake-json-group:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all:
+#  Command-line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+.PHONY: clean setup test print-% pull-image% bake-json% inspect-% report% wiki%
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.1.2.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+inspect-%:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+stacks/core-latest-daily.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+pull-image-group:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-10 10:16:36
+ 
+#  File has been updated.
+#  Successfully updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+wiki%:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test: bake-json-test-all bake-json-test-groups
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.0.0.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+inspect-manifest/206c5ff58d4e:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/devel.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.0.1.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+build/reports/versions.Rmd:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.1.1.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+bake-json-test-all:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.0.2.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+report%:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+reports/_Sidebar.md: build/reports/_Sidebar.md
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 82):
+	cp $< $@
+	
+
+bake-json-all:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+print-%:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 87):
+	rm -r -f dockerfiles/*.Dockerfile bakefiles/*.json tmp/*
+	
+
+# Not a target:
+stacks/4.0.3.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.1.3.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+pull-image%:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+pull-image-all:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+wiki-home: reports/Versions.md reports/_Sidebar.md
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 79):
+	cp -r $(IMAGELIST_DIR) $(REPORT_DIR)
+	-Rscript -e 'rmarkdown::render(input = "build/reports/wiki_home.Rmd", output_dir = "$(REPORT_DIR)", output_file = "Home.md")'
+	
+
+# Not a target:
+stacks/4.0.5.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/4.1.0.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+stacks/extra.json:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+bake-json%:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+reports/Versions.md: build/reports/versions.Rmd stacks/4.0.0.json stacks/4.0.1.json stacks/4.0.2.json stacks/4.0.3.json stacks/4.0.4.json stacks/4.0.5.json stacks/4.1.0.json stacks/4.1.1.json stacks/4.1.2.json stacks/4.1.3.json stacks/4.2.0.json stacks/core-latest-daily.json stacks/devel.json stacks/extra.json
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 84):
+	-Rscript -e 'rmarkdown::render(input = "$<", output_dir = "$(@D)", output_file = "$(@F)")'
+	
+
+bake-json-test-groups:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+inspect-manifest/34e7282c11c5:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+build/reports/_Sidebar.md:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=43/1024=4%, Rehash=0, Collisions=6/88=7%
+# VPATH Search Paths
+
+# No `vpath' search paths.
+
+# No general (`VPATH' variable) search path.
+
+# # of strings in strcache: 1
+# # of strcache buffers: 1
+# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Fri Jun 10 10:26:31 2022
+
+ 
