@@ -25,7 +25,7 @@ apt_install \
     python3-dev \
     python3-pip \
     python3-virtualenv \
-    python3-venv \
+    python3.8-venv \
     swig
 
 python3 -m pip --no-cache-dir install --upgrade \
